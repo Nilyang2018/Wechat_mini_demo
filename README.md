@@ -1,2 +1,2 @@
 # mini_ouc_pub
-A wechat campus community Miniprogram.
+A wechat miniprogram demo for precticing.
