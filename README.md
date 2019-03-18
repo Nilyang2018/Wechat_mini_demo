@@ -1,2 +1,2 @@
-# mini_ouc_pub
+# Wechat_mini_demo
 A wechat miniprogram demo for precticing.
